@@ -36,7 +36,7 @@ DEFINES += CUSTOMHEADER=\"\\\"CustomPlugin.h\\\"\"
 DEFINES += CUSTOMCLASS=CustomPlugin
 
 TARGET   = CustomQGroundControl
-DEFINES += QGC_APPLICATION_NAME='"\\\"Custom QGroundControl\\\""'
+DEFINES += QGC_APPLICATION_NAME='"\\\"Custom Vyorius Ground Station\\\""'
 
 DEFINES += QGC_ORG_NAME=\"\\\"qgroundcontrol.org\\\"\"
 DEFINES += QGC_ORG_DOMAIN=\"\\\"org.qgroundcontrol\\\"\"
